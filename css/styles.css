@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  background-color: #faf3de;
+}
+
+.flashy {
+  font-weight: bold;
+  font-style: italic;
+  color: red;
+}
+
+.best {
+  box-shadow: 100px 10px 1px rgba(255, 0, 0, 0.5);
+  border-radius: 25px;
+}
+
+img {
+  border-radius: 25px;
+}
+
+ul {
+  list-style-type: none;
+ }
