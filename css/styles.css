@@ -21,3 +21,17 @@ img {
 ul {
   list-style-type: none;
  }
+
+.intro {
+   text-align: center;
+   font-style: italic;
+   box-shadow: 1px 2px 3px;
+ }
+
+ h2.intro {
+   text-align: center;
+ }
+
+ img.intro {
+   text-align: center;
+ }
